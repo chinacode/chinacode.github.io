@@ -27,6 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: MartinLeeSz
 github_username:  chinacode
 
+site:
+  google_analytics: "G-8Y12M79KH3"
 # Build settings
 theme: minima
 #theme: minimal-mistakes-jekyll
