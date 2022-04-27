@@ -38,6 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
   - jekyll-sitemap
+  - jekyll-archives
 
 permalink: /:categories/:title/
 
@@ -60,6 +61,7 @@ collections:
 markdown: kramdown
 paginate: 10
 paginate_path: "page:num"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
