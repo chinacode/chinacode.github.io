@@ -5,7 +5,7 @@ title:  "在Windows Live Hotmail中取消删除"
 date:   2022-04-01 09:03:08 +0800  
 permalink: /posts/recover-hotmail-email.html  
 tags: [Live,Hotmail]  
-categories: [实战技巧]  
+categories: [实用工具]  
 ---
 如何从垃圾箱中恢复邮件
 

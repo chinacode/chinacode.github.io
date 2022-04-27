@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何免费获得15G的 Google Drive 账号"  
 date:   2022-04-15 20:39:12 +0800  
 permalink: /posts/get-a-free-google-drive-account.html  
-tags: [Gmail,Google,Google Docs]  
-categories: [跨境出海]  
+tags: [Google Docs,Gmail,Google]  
+categories: [实战技巧]  
 ---
 如果您不知道，拥有 [Google](https://www.henduohao.com/tag/google "Google（中文譯名：谷歌）為Alphabet（字母控股）的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，全球最大的搜索引擎。") 帐户会自动使您有资格获得具有 15 GB 云存储空间和访问 Microsoft Office 之类程序的免费 [Google Drive](https://www.henduohao.com/tag/google-drive "Google Drive是谷歌公司推出的一项在线云存储服务，通过这项服务，用户可以获得15GB的免费存储空间。") 帐户。
 

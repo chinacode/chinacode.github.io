@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "添加WhatsApp好友时，如何避免被添加到通讯录"  
 date:   2022-04-16 12:30:09 +0800  
 permalink: /posts/add-whatsapp-friends-without-saving-2-contacts.html  
-tags: [Gmail,Skype,WhatsApp]  
-categories: [跨境出海]  
+tags: [Skype,WhatsApp,Gmail]  
+categories: [实用工具]  
 ---
 [WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。") 中的群聊功能允许人们与家人、朋友和其他人分享照片、视频和信息。您将在下面找到将人员添加到 WhatsApp 组而不保存到联系人的步骤。
 

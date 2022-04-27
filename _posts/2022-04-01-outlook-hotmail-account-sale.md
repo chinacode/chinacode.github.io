@@ -5,7 +5,7 @@ title:  "批量提供微软邮箱、Hotmail邮箱、Outlook邮箱、Live邮箱�
 date:   2022-04-01 11:19:19 +0800  
 permalink: /posts/outlook-hotmail-account-sale.html  
 tags: [Live邮箱购买,邮箱批发]  
-categories: [跨境出海]  
+categories: [实战技巧]  
 ---
 **购买地址：**  
 [Hotmail邮箱购买](https://www.henduohao.com/product/1037.html "Hotmail邮箱购买")

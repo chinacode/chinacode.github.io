@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "Outlook常用小技巧"  
 date:   2022-03-31 00:47:45 +0800  
 permalink: /posts/outlook-common-tips.html  
-tags: [Live,Hotmail,Outlook]  
-categories: [实用工具]  
+tags: [Outlook,Live,Hotmail]  
+categories: [实战技巧]  
 ---
 学习使用这些必备的[Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")提示更好地使用电子邮件。那么，找出最适合Outlook的最受欢迎的提示，教程和技巧也是最有帮助的。
 

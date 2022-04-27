@@ -5,7 +5,7 @@ title:  "检查 gmail.com 帐户注册的日期和 IP 地址"
 date:   2022-04-12 21:41:37 +0800  
 permalink: /posts/how-to-check-gmail-reg-ip.html  
 tags: [Gmail,谷歌账号购买]  
-categories: [实战技巧]  
+categories: [实用工具]  
 ---
 **您应该执行以下步骤来检查 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")帐户的注册日期和 IP 地址：**
 

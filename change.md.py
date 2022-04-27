@@ -139,6 +139,7 @@ if __name__ == '__main__':
 
         tmp = 0
         content = "".join(lines)
+        content = content.replace("\\", "")
         content = content.replace("\n\n", "\n").replace("\r\r", "\n")
         pattern = re.compile(r'\[(.*?)\]')
 

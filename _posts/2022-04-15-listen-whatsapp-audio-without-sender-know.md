@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何让发送者不知道你收听了WhatsApp语音消息"  
 date:   2022-04-15 21:50:25 +0800  
 permalink: /posts/listen-whatsapp-audio-without-sender-know.html  
-tags: [Google,WhatsApp]  
-categories: [实战技巧]  
+tags: [WhatsApp,Google]  
+categories: [邮箱小号]  
 ---
 如果您正在寻找一种在发件人不知情的情况下收听 [WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。") 音频消息的方法，您可以找到以下 3 种不同的方法来收听 WhatsApp 音频，而不会生成蓝勾。
 

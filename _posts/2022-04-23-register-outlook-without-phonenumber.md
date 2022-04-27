@@ -4,7 +4,7 @@ author: "Martin Lee"
 title:  "无手机号注册Outlook邮箱方法"  
 date:   2022-04-23 21:24:16 +0800  
 permalink: /posts/register-outlook-without-phonenumber.html  
-tags: [Outlook购买,Outlook]  
+tags: [Outlook,Outlook购买]  
 categories: [跨境出海]  
 ---
 目前，拥有电子邮件地址已成为一项基本需求，因为有必要其他平台上注册，App注册等等。

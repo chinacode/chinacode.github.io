@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "注册Outlook如何跳过手机验证"  
 date:   2022-04-02 22:44:26 +0800  
 permalink: /posts/register-outlook-jump-phone-verify.html  
-tags: [微软邮箱购买,Hotmail,Outlook]  
-categories: [实用工具]  
+tags: [Outlook,微软邮箱购买,Hotmail]  
+categories: [邮箱小号]  
 ---
 Microsoft 有时会要求用户在创建 [Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")或 [Hotmail](https://www.henduohao.com/tag/hotmail "Hotmail是互联网免费电子邮件提供商之一，是一种微软邮箱。")帐户时输入电话号码。如果发生这种情况，您仍然可以使用下面提供的不同方法创建没有电话号码的 [Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")帐户。
 

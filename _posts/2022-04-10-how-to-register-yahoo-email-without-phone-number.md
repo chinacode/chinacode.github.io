@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何在没有手机号的情况下注册Yahoo邮箱"  
 date:   2022-04-10 23:05:39 +0800  
 permalink: /posts/how-to-register-yahoo-email-without-phone-number.html  
-tags: [Yahoo邮箱,Outlook,雅虎邮箱购买,Gmail,TextNow]  
-categories: [邮箱小号]  
+tags: [TextNow,Yahoo邮箱,Gmail,雅虎邮箱购买,Outlook]  
+categories: [跨境出海]  
 ---
 与 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。") 或 [Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。") 不同，Yahoo 提示用户提供电话号码以注册其免费电子邮件服务。但是，可以绕过此限制并创建没有电话号码的  [Yahoo邮箱](https://www.henduohao.com/tag/yahoo-mail "Yahoo邮箱购买 雅虎邮箱购买 邮箱购买")。
 

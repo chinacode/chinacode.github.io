@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何无手机号注册WhatsApp（小飞机）"  
 date:   2022-04-11 23:16:49 +0800  
 permalink: /posts/how-to-register-whatsapp-without-phone.html  
-tags: [Google,TextNow,WhatsApp]  
-categories: [实用工具]  
+tags: [TextNow,WhatsApp,Google]  
+categories: [邮箱小号]  
 ---
 想象一下无需电话号码或 SIM 卡即可使用 [WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。")。 在这篇文章中，您将学习两种久经考验的方法，在您的 Android 平板电脑 、iPad、PC 甚至没有 SIM 卡的手机上使用这个非常流行的消息传递系统。
 

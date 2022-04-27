@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何获得免费的美国电话号码"  
 date:   2022-04-11 22:27:53 +0800  
 permalink: /posts/how-to-free-us-phone-number.html  
-tags: [Facebook,Google,WhatsApp,TextNow,Skype,Google Voice]  
-categories: [跨境出海]  
+tags: [TextNow,Google Voice,Skype,WhatsApp,Facebook,Google]  
+categories: [实用工具]  
 ---
 有多种方法可以从美国境外获取美国电话号码，包括许多免费和付费服务，可以为您提供您自己的美国手机号码。
 

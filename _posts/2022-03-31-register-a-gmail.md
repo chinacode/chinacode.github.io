@@ -5,7 +5,7 @@ title:  "如何创建一个属于你的Gmail邮箱"
 date:   2022-03-31 00:53:53 +0800  
 permalink: /posts/register-a-gmail.html  
 tags: [Gmail]  
-categories: [实战技巧]  
+categories: [跨境出海]  
 ---
 通过这些简单的步骤，在几分钟内设置一个[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")帐户
 

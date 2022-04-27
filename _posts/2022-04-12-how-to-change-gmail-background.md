@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何更改您的 Gmail 背景"  
 date:   2022-04-12 19:04:48 +0800  
 permalink: /posts/how-to-change-gmail-background.html  
-tags: [Gmail,Google,Gmail购买,谷歌账号购买]  
-categories: [跨境出海]  
+tags: [Gmail购买,Gmail,谷歌账号购买,Google]  
+categories: [实战技巧]  
 ---
 您每天在电子邮件中花费多少时间？一项研究表明，这是您一天中 28% 的时间——或大约 2.6 小时。
 

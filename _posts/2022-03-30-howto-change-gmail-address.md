@@ -5,7 +5,7 @@ title:  "如何更换您的Gmail地址"
 date:   2022-03-30 01:20:26 +0800  
 permalink: /posts/howto-change-gmail-address.html  
 tags: [Gmail]  
-categories: [实战技巧]  
+categories: [邮箱小号]  
 ---
 在许多情况下，您可能需要更改您的 Gmail 地址：您换了工作、结婚并改了名字，或者您在 2003 年设置的电子邮件地址突然看起来有点累了。无论出于何种原因，以下是更改 Gmail 地址并确保您在此过程中不会丢失任何重要数据的方法。
 

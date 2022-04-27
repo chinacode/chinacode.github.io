@@ -19,24 +19,24 @@ categories: [跨境出海]
 
 **1.PC端通过chrome注册绕过手机验证**
 
-在PC上绕过[Gmail](https://www.henduohao.com/product/1006.html)电话验证很容易。该过程不会花费您很多时间，并且会在没有真实电话号码的情况下创建您的帐户。请按照以下说明在计算机上输入您的电话号码而不输入Gmail ID和密码。\
-在计算机上运行Google [Chrome](https://www.henduohao.com/tag/chrome "Google Chrome是一款由Google公司开发的网页浏览器。")，然后等待其主窗口打开。\
+在PC上绕过[Gmail](https://www.henduohao.com/product/1006.html)电话验证很容易。该过程不会花费您很多时间，并且会在没有真实电话号码的情况下创建您的帐户。请按照以下说明在计算机上输入您的电话号码而不输入Gmail ID和密码。
+在计算机上运行Google [Chrome](https://www.henduohao.com/tag/chrome "Google Chrome是一款由Google公司开发的网页浏览器。")，然后等待其主窗口打开。
 现在，导航至其“设置”，然后选择“登录[Chrome](https://www.henduohao.com/tag/chrome "Google Chrome是一款由Google公司开发的网页浏览器。")”选项，如下面的屏幕截图所示。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1ec4295909a74714a4820f52d911c239~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1ec4295909a74714a4820f52d911c239~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 注意：如果您已经登录，请不要忘记先注销。
 
 现在，您将在计算机屏幕上看到“登录Chrome浏览器”窗口。在这里，您需要选择“更多”，然后选择“创建新帐户”。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2217af8e7a54ea5866fd9d623295404~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2217af8e7a54ea5866fd9d623295404~tplv-k3u1fbpfcp-zoom-1.image)
 
 
-最后，注册页面将打开，您可以在其中输入您的全名，出生日期和其他详细信息，然后单击“下一步”。\
-现在输入合适的用户名和密码。如果需要，请确认密码，然后单击“下一步”。\
-您将不会看到一个窗口来输入您的联系电话。在这里，点击“跳过”。\
-最后，点击一个小框，同意条款和条件，您的Gmail帐户将创建而没有电话号码。\
+最后，注册页面将打开，您可以在其中输入您的全名，出生日期和其他详细信息，然后单击“下一步”。
+现在输入合适的用户名和密码。如果需要，请确认密码，然后单击“下一步”。
+您将不会看到一个窗口来输入您的联系电话。在这里，点击“跳过”。
+最后，点击一个小框，同意条款和条件，您的Gmail帐户将创建而没有电话号码。
 恭喜，这样一来你就有了一个不用手机号注册的谷歌账号了。
 
 **2.Android端通过chrome注册绕过手机验证**
@@ -45,32 +45,32 @@ categories: [跨境出海]
 
 在Android手机上访问“设置”，然后向下滚动以在“常规”选项中选择“帐户”。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6279408cc004973a4b5e0e2c3468ed0~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6279408cc004973a4b5e0e2c3468ed0~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 现在，选择“添加帐户”选项，然后从打开的列表中选择“ Google帐户”并继续。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/25556f10216545faa1fbddc102837766~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/25556f10216545faa1fbddc102837766~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 现在，您将看到“**添加您的帐户**”屏幕。在这里，您需要选择“或创建一个新帐户”。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96eff68ee1834730bce182b3b5e8f8b3~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96eff68ee1834730bce182b3b5e8f8b3~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 正确填写您的详细信息，然后单击“下一步”，如下面的屏幕截图所示。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9a87794e036f424a86b8766a3889548d~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9a87794e036f424a86b8766a3889548d~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 现在将要求您输入合适的用户名以供将来登录。这样做，然后单击“下一步”。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81a6205970ef49259a79ce8de894d062~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81a6205970ef49259a79ce8de894d062~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 最后，将出现“添加电话号码”屏幕。在这里，无需输入您的联系方式，只需点击“跳过”即可。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/19bee0765c884831bcd1f8c454e00c98~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/19bee0765c884831bcd1f8c454e00c98~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 在成功打开没有电话号码的Gmail ID和密码之前，请先在打开的下一个窗口中选择“我同意”。

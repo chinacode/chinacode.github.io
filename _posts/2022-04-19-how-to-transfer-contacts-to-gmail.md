@@ -5,7 +5,7 @@ title:  "如何将 iPhone 联系人转移到 Gmail"
 date:   2022-04-19 22:41:29 +0800  
 permalink: /posts/how-to-transfer-contacts-to-gmail.html  
 tags: [Gmail,Google]  
-categories: [实战技巧]  
+categories: [实用工具]  
 ---
 如果您正在寻找将 iPhone 联系人转移到 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。") 的方法，您会发现以下 3 种不同的方法将联系人从 iPhone 转移到您的 Gmail 帐户。
 

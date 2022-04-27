@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何注册Google Voice账号（电话号码）"  
 date:   2022-04-11 22:27:48 +0800  
 permalink: /posts/how-to-register-google-voice.html  
-tags: [TextNow,Gmail,Google,Google Voice]  
-categories: [邮箱小号]  
+tags: [TextNow,Google Voice,Gmail,Google]  
+categories: [跨境出海]  
 ---
 [Google Voice](https://www.henduohao.com/tag/google-voice "Google Voice可以使你创造一个独立的电话号码。")提供了一个免费的美国电话号码，可用于拨打免费电话和发送免费短信。 不幸的是，居住在美国以外的人无法使用 [Google](https://www.henduohao.com/tag/google "Google（中文譯名：谷歌）為Alphabet（字母控股）的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，全球最大的搜索引擎。")Voice，但请不要担心，因为我们将向您展示从美国境外获取 Google Voice 号码的步骤。
 

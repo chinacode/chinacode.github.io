@@ -5,7 +5,7 @@ title:  "如何更换WhatsApp（WA）手机号码"
 date:   2022-04-11 23:24:19 +0800  
 permalink: /posts/how-to-change-whatsapp-phone-number.html  
 tags: [WhatsApp]  
-categories: [邮箱小号]  
+categories: [实战技巧]  
 ---
 如果您正在考虑更改 [WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。") 电话号码，您可能有兴趣了解更改 WhatsApp 电话号码时会发生什么。
 

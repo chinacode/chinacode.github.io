@@ -5,7 +5,7 @@ title:  "如何创建一个更专业的企业邮箱"
 date:   2022-03-31 00:26:36 +0800  
 permalink: /posts/create-a-professional-email-address.html  
 tags: [Gmail,企业邮箱]  
-categories: [实用工具]  
+categories: [跨境出海]  
 ---
 您的[企业邮箱](https://www.henduohao.com/tag/enterprise-mailbox "企业邮箱（Enterprise Mailbox）是指以您的域名作为后缀的电子邮件地址，例如：企业邮箱 谷歌企业邮箱、微软企业邮箱、腾讯企业邮箱等。")就像您的在线名片。对于许多潜在客户来说，这是他们与您互动时首先看到的东西，并且会对您留下的印象产生巨大影响。这就是为什么花时间创建一个专业的电子邮件地址至关重要。
 

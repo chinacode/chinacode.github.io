@@ -5,7 +5,7 @@ title:  "如何撤回 Gmail 已发送的邮件"
 date:   2022-04-14 18:38:37 +0800  
 permalink: /posts/how-to-recall-sent-email-in-gmail.html  
 tags: [Gmail]  
-categories: [跨境出海]  
+categories: [实战技巧]  
 ---
 还记得发送电子邮件并在下一刻意识到您不应该发送它吗？幸运的是，可以在 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。") 中撤回已发送的电子邮件。
 

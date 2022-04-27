@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何恢复被永久删除的Outlook邮件"  
 date:   2022-04-13 23:32:02 +0800  
 permalink: /posts/how-to-recover-permanently-deleted-emails-outlook.html  
-tags: [微软邮箱购买,Outlook]  
-categories: [邮箱小号]  
+tags: [Outlook,微软邮箱购买]  
+categories: [实用工具]  
 ---
 在尝试清理邮件收件箱时不小心删除一堆电子邮件并不少见，突然意识到其中一些电子邮件很重要，你希望恢复他。
 

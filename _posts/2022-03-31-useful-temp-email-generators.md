@@ -5,7 +5,7 @@ title:  "推荐几个好用的临时邮箱生成工具网站"
 date:   2022-03-31 00:37:52 +0800  
 permalink: /posts/useful-temp-email-generators.html  
 tags: [临时邮箱]  
-categories: [跨境出海]  
+categories: [邮箱小号]  
 ---
 伪造的电子邮件生成器可帮助您保护您的在线身份。 它会为您创建一个临时电子邮件地址，您可以将其用于各种目的，例如注册、验证、发送和接收电子邮件等。
 

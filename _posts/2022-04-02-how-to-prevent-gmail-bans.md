@@ -5,7 +5,7 @@ title:  "Gmail谷歌账户如何预防封号"
 date:   2022-04-02 00:13:34 +0800  
 permalink: /posts/how-to-prevent-gmail-bans.html  
 tags: [Gmail]  
-categories: [实战技巧]  
+categories: [跨境出海]  
 ---
 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")用户用一台电脑登陆多个账号都会被网站判定为一个用户，也就是你所有的账号都关联在一起，关联的后果是账号被封,根据[henduohao](https://www.henduohao.com/)的测试
 
@@ -41,7 +41,7 @@ VMLogin中文版反指紋防關聯超級瀏覽器具有的功能有：
 
 
 
-**VMLogin 技术特点：**\
+**VMLogin 技术特点：**
 
 
 1、支持自定義瀏覽器 SSL 指紋設置；

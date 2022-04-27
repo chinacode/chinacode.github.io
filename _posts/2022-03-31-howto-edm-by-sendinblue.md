@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何使用Sendinblue进行EDM邮件营销"  
 date:   2022-03-31 12:53:36 +0800  
 permalink: /posts/howto-edm-by-sendinblue.html  
-tags: [邮件营销,EDM]  
-categories: [跨境出海]  
+tags: [EDM,邮件营销]  
+categories: [实战技巧]  
 ---
 如何在您的活动中使用 [EDM](https://www.henduohao.com/tag/edm "EDM 是 Email Direct Marketing 的缩写，即电子邮件营销，简称为邮件营销。")营销
 

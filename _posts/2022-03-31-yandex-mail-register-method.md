@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "利用 Yandex 搭建免费的个人域名邮箱服务"  
 date:   2022-03-31 00:21:17 +0800  
 permalink: /posts/yandex-mail-register-method.html  
-tags: [Google Voice,Yandex]  
-categories: [实用工具]  
+tags: [Yandex,Google Voice]  
+categories: [实战技巧]  
 ---
 有一个自己的域名邮箱好处多多。你可以用它来重复注册某些网站或服务，如果你在运营网站或播客，还可以用它来和读者、听众们沟通。
 
@@ -48,7 +48,7 @@ Yandex（俄语：Яндекс）是一家俄罗斯互联网企业，旗下的�
 
 传送门：<https://passport.yandex.com/registration>
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/644bd69bba3e427989de8501db629358~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/644bd69bba3e427989de8501db629358~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 可以选择用电话号码或者设置安全问题两种方式注册，笔者是使用 [Google Voice](https://www.henduohao.com/tag/google-voice "Google Voice Voice账号 Voice账号购买") 注册的。
@@ -57,7 +57,7 @@ Yandex（俄语：Яндекс）是一家俄罗斯互联网企业，旗下的�
 
 个人域名邮箱申请入口：[Connect Yandex](https://connect.yandex.com/pdd/)，输入你的顶级域名注册。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e066e90411fc4fe4a619c24cdc1fa583~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e066e90411fc4fe4a619c24cdc1fa583~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 接着就是验证该域名所有权，一共有四种方式：
@@ -87,7 +87,7 @@ Value 填写验证页面给定的值，比如 `4b11214ae60a86`
 
 进入 DNS 管理后台，找到 mail 设置或者可以填写 MX 记录的地方，Name（Host）填写 `@` 或者你的顶级域名，Value 填写 `mx.yandex.net.`，Priority 填写 `10`。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f462a17abaf94279839c69581966ea43~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f462a17abaf94279839c69581966ea43~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 解析好之后静待生效即可。
@@ -109,7 +109,7 @@ SPF 记录有助于降低从域名邮箱发送的电子邮件被标记为垃圾�
 
 <!---->
 
--   ![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8ec9a65c000144ef92d9615daafbf2cd~tplv-k3u1fbpfcp-zoom-1.image)\
+-   ![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8ec9a65c000144ef92d9615daafbf2cd~tplv-k3u1fbpfcp-zoom-1.image)
 
 -   解析好之后静待生效即可。
 -   
@@ -123,14 +123,14 @@ SPF 记录有助于降低从域名邮箱发送的电子邮件被标记为垃圾�
 
 
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0a011d3868b34b82a8ebeea414a45671~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0a011d3868b34b82a8ebeea414a45671~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 创建好之后回到 [Yandex mail 官网](https://mail.yandex.com/) 登录，用户名和密码填写刚刚创建的信息即可。切记一定要登录，因为这里有一个协议需要同意，同意后该自定义前缀的域名邮箱方可开通。
 
 Enjoy it！
 
-**\
+**
 **
 
 **补充内容**
@@ -144,7 +144,7 @@ Enjoy it！
 
 <!---->
 
--   DNS record 全指南：\
+-   DNS record 全指南：
 
 
 <!---->

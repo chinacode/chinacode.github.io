@@ -4,7 +4,7 @@ author: "Martin Lee"
 title:  "如何在Windows Mail或Outlook中设置默认电子邮件帐户"  
 date:   2022-03-31 00:54:38 +0800  
 permalink: /posts/set-windows-default-email.html  
-tags: [Live,Outlook]  
+tags: [Outlook,Live]  
 categories: [邮箱小号]  
 ---
 当您回复电子邮件时，Windows [Live](https://www.henduohao.com/tag/live-mail "Live Mail即Windows Live Mail，是微软的一项电子邮件服务。") Mail，Windows Mail和[Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。") Express会自动将发送原始邮件的电子邮件地址放在From：字段中。

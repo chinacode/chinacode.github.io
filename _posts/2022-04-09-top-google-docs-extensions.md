@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "最受欢迎的Google Docs插件"  
 date:   2022-04-09 17:09:35 +0800  
 permalink: /posts/top-google-docs-extensions.html  
-tags: [Gmail,Google,Google Docs]  
-categories: [邮箱小号]  
+tags: [Google Docs,Gmail,Google]  
+categories: [跨境出海]  
 ---
 对于免费的文字处理器，Google Docs是全球最好的在线协作方案之一，很难被击败。Google Docs允许您创建、编辑和与任何拥有Google帐户的人共享文字处理文档。 您可以与他人协作处理文档、跟踪更改，甚至离线工作。
 

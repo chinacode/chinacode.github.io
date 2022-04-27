@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "购买谷歌邮箱之后，应该如何修改密码？"  
 date:   2022-03-31 01:15:38 +0800  
 permalink: /posts/gmail-change-password.html  
-tags: [Chrome,谷歌邮箱,Gmail]  
-categories: [邮箱小号]  
+tags: [Gmail,Chrome,谷歌邮箱]  
+categories: [跨境出海]  
 ---
 很多小伙伴的[谷歌邮箱](https://www.henduohao.com/tag/google-mail "谷歌邮箱是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")账号都是通过渠道购买而来的，那么购买的[谷歌邮箱](https://www.henduohao.com/tag/google-mail "谷歌邮箱是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")应该如何修改密码呢？如何修改默认随机的[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")密码才能够使我们的账号更加安全稳定呢？今天中邮科技小编就带大家去了解一下。
 

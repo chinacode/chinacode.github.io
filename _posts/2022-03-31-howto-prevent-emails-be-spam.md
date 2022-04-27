@@ -4,7 +4,7 @@ author: "Martin Lee"
 title:  "如何避免发送邮件进入垃圾箱"  
 date:   2022-03-31 01:17:09 +0800  
 permalink: /posts/howto-prevent-emails-be-spam.html  
-tags: [Gmail,邮件营销]  
+tags: [邮件营销,Gmail]  
 categories: [邮箱小号]  
 ---
 当您组织电子[邮件营销](https://www.henduohao.com/tag/email-marketing "EDM营销（Email Direct Marketing）也即：Email营销、电子邮件营销。EDM有多种用途，可以发送电子广告、产品信息、销售信息、市场调查、市场推广活动信息等。")活动时，这样的统计数据令人担忧。但别担心 - 我们支持您。我们不希望您的电子邮件只是另一个统计数据，我们编写了以下指南来帮助您将电子邮件从垃圾文件夹和收件人的收件箱中保存。因此，事不宜迟，以下是您必须做的 12 件事，以防止电子邮件成为垃圾邮件。
@@ -14,7 +14,7 @@ categories: [邮箱小号]
 
 ###### 1. 要求订阅者将您的电子邮件地址列入白名单
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c438005f83ae4f1eb77b4b7ce5dc2a7b~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c438005f83ae4f1eb77b4b7ce5dc2a7b~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 将 [Gmail ](https://www.henduohao.com/product/1003.html)中的电子邮件地址列入白名单。
@@ -25,7 +25,7 @@ categories: [邮箱小号]
 
 为确保您的所有电子邮件都得到此处理， 请在有人加入您的电子邮件列表时发送的第一 封欢迎电子邮件中包含白名单说明 *。*[](https://coherentpath.com/rarelogic/blog/boost-your-ecommerce-sales-with-these-welcome-email-examples/)
 
-*\
+*
 *
 
 ###### 2.始终获得发送电子邮件的权限
@@ -67,7 +67,7 @@ categories: [邮箱小号]
 
 例如，看看这个真实的网络钓鱼电子邮件：
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/283a5bf66fe647888fe5117fea011f99~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/283a5bf66fe647888fe5117fea011f99~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 虽然您不会写一封带有如此极端问题的电子邮件，但它确实提供了宝贵的经验教训，说明拼写错误、格式错误和语法错误都是垃圾邮件的标志。如果您对自己的语法能力不满意，那么找一个您信任的人为您校对您的电子邮件，或者至少使用诸如Grammarly 之类的程序来发现基本的语法错误。
@@ -81,7 +81,7 @@ categories: [邮箱小号]
 
 有关垃圾邮件主题行的示例，请查看以下截取自真实 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。") 垃圾邮件文件夹的屏幕截图。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e12a15d9fbc4ca3a7688b7a5c1b8c10~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e12a15d9fbc4ca3a7688b7a5c1b8c10~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 如您所见，其中一些电子邮件来自 Lyft、  Dollar Shave Club和 FareDepot等合法品牌。然而，由于这些公司的电子邮件营销人员选择的措辞，这些电子邮件最终成为垃圾邮件。请注意这些电子邮件中有多少提到了金钱，使用了太多的感叹号，或者通常承诺折扣。
@@ -104,7 +104,7 @@ categories: [邮箱小号]
 
 ###### 8.使用垃圾邮件检查工具
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/51b52351879c4b91b3bf2710cb5605d7~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/51b52351879c4b91b3bf2710cb5605d7~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 如果有一个程序可以告诉您您的电子邮件是否可能被垃圾邮件过滤器捕获，或者它们是否仍然有效，那不是很好吗？事实证明，这样的应用程序是存在的。
@@ -136,7 +136,7 @@ categories: [邮箱小号]
 
 ###### 11. 轻松退订
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a7d674284b704f86b18692401e8e3907~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a7d674284b704f86b18692401e8e3907~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 让您的订阅者轻松离开您的电子邮件列表似乎是一个违反直觉的建议，但它是遵守 CAN-SPAM 法案并确保订阅者信任您的关键。虽然遵守法律是您的首要任务，但包括取消订阅的方式也向订阅者表明您对内容的价值充满信心。毕竟，如果您不认为自己的电子邮件很出色，为什么要先发送它们呢？

@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何利用Gmail群发电子邮件"  
 date:   2022-04-12 21:39:20 +0800  
 permalink: /posts/howto-bulkemail-email-with-gmail.html  
-tags: [Google Docs,邮件营销,Google,Gmail,谷歌账号购买]  
-categories: [实用工具]  
+tags: [Gmail,谷歌账号购买,邮件营销,Google Docs,Google]  
+categories: [实战技巧]  
 ---
 并非每个人都有投资电子[邮件营销](https://www.henduohao.com/tag/email-marketing "EDM营销（Email Direct Marketing）也即：Email营销、电子邮件营销。EDM有多种用途，可以发送电子广告、产品信息、销售信息、市场调查、市场推广活动信息等。")软件的预算。 但是，是否有任何解决方案可以通过 [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。") 发送大量电子邮件（或 [批量电子邮件 ](https://www.henduohao.com/a/best-free-bulkemail-providers)）？
 

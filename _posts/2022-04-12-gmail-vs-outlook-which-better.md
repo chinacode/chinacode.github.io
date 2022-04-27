@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "Gmail对比Outlook哪个更好"  
 date:   2022-04-12 21:40:56 +0800  
 permalink: /posts/gmail-vs-outlook-which-better.html  
-tags: [Live,Hotmail,Outlook,Chrome,SMTP,Google,IMAP,WhatsApp,Gmail,谷歌账号购买,Skype]  
-categories: [跨境出海]  
+tags: [Live,Gmail,谷歌账号购买,IMAP,SMTP,Skype,WhatsApp,Google,Outlook,Chrome,Hotmail]  
+categories: [邮箱小号]  
 ---
 随着 Slack、[WhatsApp](https://www.henduohao.com/tag/whatsapp "WhatsApp Messenger（简称WhatsApp）是一款用于智能手机之间通讯的应用程序，支持iPhone手机和Android手机。可免费从发送手机短信转为使用WhatsApp程序，以发送和接收信息、图片、音频文件和视频信息。") 和 [Skype](https://www.henduohao.com/tag/skype "Skype是一款通信应用软件，可通过網際網路为电脑、平板电脑和移动设备提供与其他联网设备或传统电话/智能手机间进行视频通话和语音通话的服务。") 等实时通信应用程序的普及，您可能会惊讶地发现电子邮件仍然是工作中的主要通信工具 - 并且在全球拥有 39 亿用户，这种情况不太可能随时改变很快。
 
@@ -31,7 +31,7 @@ Gmail邮箱和 [Outlook](https://www.henduohao.com/tag/outlook "Outlook是互�
 -   Gmail 于 2004年推出——因为它提供 1GB 的免费存储空间而大张旗鼓
 -   最终，Windows [Live](https://www.henduohao.com/tag/live-mail "Live Mail即Windows Live Mail，是微软的一项电子邮件服务。") Hotmail 更名为 Outlook，试图与 Gmail 竞争
 
-尽管努力竞争，但截至 2020 年，Outlook 仅占电子邮件客户端市场份额的 9%，而 Gmail 为 28%。\
+尽管努力竞争，但截至 2020 年，Outlook 仅占电子邮件客户端市场份额的 9%，而 Gmail 为 28%。
 
 
 
@@ -67,12 +67,12 @@ Outlook 具有传统的文件夹和文件系统，与大多数其他电子邮件
 
 基本的 Gmail 设计：
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29f9d5832d9f488b96980f42a39059ac~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29f9d5832d9f488b96980f42a39059ac~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 Outlook 界面：
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ef64d27316d4b448640fd1d1395174f~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ef64d27316d4b448640fd1d1395174f~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 
@@ -97,7 +97,7 @@ Outlook 界面：
 
 1. Right Inbox——Right Inbox 致力于帮助人们提高工作效率。有一套工具可以帮助您增强收件箱，从电子邮件提醒到可自定义的电子邮件模板。
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/40e31bac12884646a30b3c071b00d9be~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/40e31bac12884646a30b3c071b00d9be~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 2. Crystal Knows---你有没有想在重要会议之前发现更多关于某人的信息？Crystal Knows 只能使用公开可用的数据来预测某人的性格。

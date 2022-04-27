@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何删除gmail邮箱"  
 date:   2022-04-01 09:16:19 +0800  
 permalink: /posts/remove-gmail-account.html  
-tags: [Gmail,YouTube,IMAP]  
-categories: [实战技巧]  
+tags: [YouTube,IMAP,Gmail]  
+categories: [邮箱小号]  
 ---
 用这些简单的步骤关闭[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")您可以删除Google [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")帐户及其中的所有信息（并且仍保留您的Google，[YouTube](https://www.henduohao.com/tag/youtube "YouTube，谷歌旗下的美国影音分享网站，是目前全球最大的视频搜索和分享平台。")等帐户）。
 

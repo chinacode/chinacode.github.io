@@ -5,7 +5,7 @@ title:  "如何在Gmail中查看邮件的来源"
 date:   2022-03-31 01:02:23 +0800  
 permalink: /posts/how-to-find-gmail-email.html  
 tags: [Gmail]  
-categories: [实战技巧]  
+categories: [跨境出海]  
 ---
 请参阅[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")电子邮件中的隐藏详细信息
 

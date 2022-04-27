@@ -4,15 +4,15 @@ author: "Martin Lee"
 title:  "谷歌Gmail邮箱账号登录提示我们无法识别此设备，需要设备验证码"  
 date:   2022-04-12 21:41:23 +0800  
 permalink: /posts/gmail-can-not-identify-device.html  
-tags: [谷歌邮箱,Gmail,谷歌账号购买]  
-categories: [实用工具]  
+tags: [Gmail,谷歌邮箱,谷歌账号购买]  
+categories: [跨境出海]  
 ---
 最近很多买家反馈，登录[谷歌邮箱](https://www.henduohao.com/tag/google-mail "谷歌邮箱是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")账号会遇见提示：我们无法识别此设备，为了保护您的账号安全谷歌希望确认是您本人登录，这样的提示，然后需要选择设备确认验证码。
 
-**如下图：**\
+**如下图：**
 
 
-![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ebda6ea0173242869dc6ccc724cfd5f5~tplv-k3u1fbpfcp-zoom-1.image)\
+![图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ebda6ea0173242869dc6ccc724cfd5f5~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 遇见这种情况基本可以确定是您的VPN节点IP不够干净，该IP登录过太多谷歌[Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。")邮箱账号导致的。

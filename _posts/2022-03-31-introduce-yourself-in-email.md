@@ -4,7 +4,7 @@ author: "Martin Lee"
 title:  "如何在电子邮件中推销自己（服务）"  
 date:   2022-03-31 00:37:17 +0800  
 permalink: /posts/introduce-yourself-in-email.html  
-tags: [Gmail,邮件营销]  
+tags: [邮件营销,Gmail]  
 categories: [跨境出海]  
 ---
 您可能认为编写介绍电子邮件很容易。但是，您有多少电子邮件实际上得到了回复？

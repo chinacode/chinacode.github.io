@@ -4,7 +4,7 @@ author: "Martin Lee"
 title:  "如何在Twitter上停止自动播放视频"  
 date:   2022-04-17 11:15:13 +0800  
 permalink: /posts/how-to-stop-autoplay-videos-twitter.html  
-tags: [Facebook,Twitter]  
+tags: [Twitter,Facebook]  
 categories: [实用工具]  
 ---
 您一定已经注意到，当您在 [Twitter](https://www.henduohao.com/tag/twitter "Twitter可以让用户更新不超过140个字符的消息，是全球著名的社交平台之一。") 时间轴中向下滚动时，视频会自动开始播放。虽然这看起来很酷很时髦，但您可能希望停止 Twitter 上的自动播放视频以防止过度使用数据。

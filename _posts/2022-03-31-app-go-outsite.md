@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "关于海外APP账号的一些常见问答"  
 date:   2022-03-31 01:16:09 +0800  
 permalink: /posts/app-go-outsite.html  
-tags: [Facebook,Gmail]  
-categories: [邮箱小号]  
+tags: [Gmail,Facebook]  
+categories: [跨境出海]  
 ---
 总有些小白爱问一些比较低级的问题，不回答不好，问答吧，没有时间，或者说浪费时间！故此整理出来，以供大家参考。
 

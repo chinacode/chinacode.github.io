@@ -5,7 +5,7 @@ title:  "如何设置Gmail自动回复"
 date:   2022-03-31 00:54:21 +0800  
 permalink: /posts/howto-set-gmail-auto-reply.html  
 tags: [Gmail]  
-categories: [实战技巧]  
+categories: [跨境出海]  
 ---
 ## [Gmail](https://www.henduohao.com/tag/gmail "Gmail是Google的免费网络邮件服务，也是世界上用户量最多的邮箱。") 中的预设自动回复何时有用
 

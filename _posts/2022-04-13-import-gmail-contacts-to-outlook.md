@@ -4,8 +4,8 @@ author: "Martin Lee"
 title:  "如何将gmail联系人导入Outlook"  
 date:   2022-04-13 23:25:12 +0800  
 permalink: /posts/import-gmail-contacts-to-outlook.html  
-tags: [Gmail,Google,Hotmail,Outlook]  
-categories: [跨境出海]  
+tags: [Outlook,Gmail,Hotmail,Google]  
+categories: [邮箱小号]  
 ---
 如果您的电子邮件地址是[Hotmail](https://www.henduohao.com/product/1037.html)帐户或[Windows Live](https://www.henduohao.com/product/1039.html)电子邮件帐户，则您的电子邮件最终会并入Microsoft.com基于Web的电子邮件系统[Outlook](https://www.henduohao.com/tag/outlook "Outlook是互联网免费电子邮件提供商之一，是一种微软邮箱。")。
 

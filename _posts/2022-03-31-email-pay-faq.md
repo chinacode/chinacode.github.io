@@ -5,7 +5,7 @@ title:  "付款常见问题"
 date:   2022-03-31 01:02:50 +0800  
 permalink: /posts/email-pay-faq.html  
 tags: [Chrome]  
-categories: [跨境出海]  
+categories: [邮箱小号]  
 ---
 单笔充值或者购买不能超过1000元，要多的请分几次或者联系客服直接付款
 
