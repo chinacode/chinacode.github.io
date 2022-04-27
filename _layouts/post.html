@@ -12,13 +12,31 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+      {%- if page.categories -%}
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        • 分类：<a href="/categories#{{ page.categories }}">{{ page.categories }}</a>
+      </span>
+      {%- endif -%}
+      {%- if page.tags -%}
+        • 标签：
+        {%- for tag in page.tags -%}
+            <a href="/tags#{{ tag }}">
+              <code class="language-plaintext highlighter-rouge">
+              {{ tag }}
+              </code>
+            </a>&nbsp;
+        {%- endfor -%}
+      {%- endif -%}
+    </p>
+
   </header>
-
-
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="md-catalog">
     目录：
     {% include toc.html html=content base_url="" %}
+  </div>
+
+  <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
