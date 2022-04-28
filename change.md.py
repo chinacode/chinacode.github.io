@@ -137,6 +137,13 @@ if __name__ == '__main__':
 
         del lines[0]
 
+        # get markdown last time get unix timestamp
+        _post_time = 0
+        last_line = lines[len(lines) - 1]
+        if last_line.startswith("TS:"):
+            _post_time = int(last_line.replace("TS:", ""))
+            del lines[len(lines) - 1]
+
         tmp = 0
         content = "".join(lines)
         content = content.replace("\\", "")
@@ -172,7 +179,9 @@ categories: [{}]
 
         post_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         date_prefix = datetime.now().strftime('%Y-%m-%d')
-        _post_time = get_post_time(url)
+
+        if _post_time == 0:
+            _post_time = get_post_time(url)
         if _post_time:
             post_time = time.strftime("%Y-%m-%d %H:%M:%S", _post_time)
             date_prefix = time.strftime("%Y-%m-%d", _post_time)
