@@ -41,6 +41,7 @@ E-Mail : [fahuo#henduohao.com](mailto:fahuo@henduohao.com)
 -   [Martin's matter](https://matters.news/@martinworksz)
 -   [WeCreative's Github](https://github.com/chinacode/wecreative)
 -   [WeCreative's Patreon](https://www.patreon.com/wecreative)
+-   [WeCreative's Substack](https://wecreative.substack.com/)
 -   [WeCreative's 简书](https://www.jianshu.com/u/08079467621a)
 -   [WeCreative's 博客园](https://www.cnblogs.com/wecreative/)
 
